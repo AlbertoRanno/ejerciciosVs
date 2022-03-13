@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "este es un proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ejemplo",
+    "ejercicio",
+    "inicio"
+  ],
+  "author": "alberto ranno",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
